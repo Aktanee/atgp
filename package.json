@@ -4,7 +4,7 @@
   "license": "MIT",
   "dependencies": {
     "@octokit/rest": "^16.25.1",
-    "airtable": "^0.5.10",
+    "airtable": "^0.7.2",
     "dotenv-safe": "^6.1.0",
     "minimist": "^1.2.0"
   },
